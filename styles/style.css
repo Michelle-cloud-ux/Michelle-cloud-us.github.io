@@ -1,0 +1,55 @@
+html {
+  font-size: 12px;
+  font-family: "Schibsted Grotesk", sans-serif;
+  background-color: #d5dcc9;
+}
+/*  
+p {
+  color: red;
+}
+*/
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #edf5c9;
+  border: 5px, solid, black;
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  /* margin: 0; */
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+  text-shadow: 2px 2px #ff0000;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+p {
+  display: inline-block;
+  /* width: 500px; */
+  border-style: dashed;
+  padding-left: 5px;
+}
+
+ol {
+  margin-left: 0px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
